@@ -26,7 +26,7 @@ Route::get('/about', function () {
         "title" => "About",
         "nama" => "Arya Zafri",
         "email" => "aryaxszafrie@gmail.com",
-        "gambar" => "arya.jpeg"
+        "gambar" => "arya1.jpeg"
     ]);
 });
 
